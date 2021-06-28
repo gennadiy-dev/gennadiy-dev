@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-##Используемые технологии:<br>
+## Используемые технологии:<br>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
