@@ -3,9 +3,5 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/html5.svg" width="22px">
 
-<!---
-gennadiy-dev/gennadiy-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" width>
