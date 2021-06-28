@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gennadiy-dev, I'm a novice web developer
+- 👋 Hi, I’m @gennadiy-dev, I'm a beginner web developer
 - 👀 I am interested in programming, web design, movies and TV series
 - 🌱 I am currently studying at the yandex-praktikum web development courses
 - 💞 ️ I want to collaborate with other novice web developers
