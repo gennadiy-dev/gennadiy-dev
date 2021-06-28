@@ -2,7 +2,7 @@
 - 👀 I am interested in programming, web design, movies and TV series
 - 🌱 I am currently studying at the yandex-praktikum web development courses
 - 💞 ️ I want to collaborate with other novice web developers
-- 📫 How to contact me: <a href="t.me/Gennadiy_dev">telegram</a>
+- 📫 How to contact me: <a href="http://t.me/Gennadiy_dev">telegram</a>
 ____
 
 ## Используемые технологии:<br>
