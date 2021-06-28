@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @gennadiy-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @gennadiy-dev, I'm a novice web developer
+- 👀 I am interested in programming, web design, movies and TV series
+- 🌱 I am currently studying at the yandex-praktikum web development courses
+- 💞 ️ I want to collaborate with other novice web developers
+- 📫 How to contact me: <a href="t.me/Gennadiy_dev">telegram</a>
+____
+
 ## Используемые технологии:<br>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 ## Используемые инструменты:<br>
